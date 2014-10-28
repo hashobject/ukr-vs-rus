@@ -1,10 +1,9 @@
-# default
+# ukr-vs-rus
 
-A Clojure library designed to ... well, that part is up to you.
+Analyze similarities between Ukrainian and Russian languages programmatically.
 
-## Usage
+Read [blog post](http://blog.hashobject.com/ukrainian-vs-russian) for more details.
 
-FIXME
 
 ## License
 
